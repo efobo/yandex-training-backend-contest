@@ -1,0 +1,1 @@
+# yandex-training-backend-contest
